@@ -35,6 +35,20 @@
 
 </HEAD>
 
+
+<BODY>
+
+
+<table width="100%" cellpadding="0" border="0" cellspacing="0">
+<tr>
+<td>
+	<img src="sjliu.me/images/seine4.jpg" width="100%" height="40px">
+</td>
+</tr>
+</table>
+
 Earth Hour Tramway HK: [https://youtu.be/B6hXvqMPvyE](https://youtu.be/B6hXvqMPvyE)
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/B6hXvqMPvyE?start=33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</BODY>
